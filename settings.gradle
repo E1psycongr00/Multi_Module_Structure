@@ -1,0 +1,5 @@
+rootProject.name = 'multi_module_practice'
+include 'module-common'
+include 'module-api'
+include 'module-batch'
+
